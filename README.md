@@ -1,2 +1,2 @@
 # git-gitpracice
-This is foe practice
+This is for practice
